@@ -1,6 +1,8 @@
 .svn/
+.gradle/
 generated/
 bin/
+build/
 
 *.class
 
